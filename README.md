@@ -1,4 +1,4 @@
-# 🛡️ Guía Definitiva para Principiantes: Análisis de Correos Electrónicos Maliciosos 📧
+# 🛡️ Guía para Principiantes: Análisis de Correos Electrónicos Maliciosos 📧
 
 ## ✨ Introducción
 
